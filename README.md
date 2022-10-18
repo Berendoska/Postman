@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/akofpbgw69k87fd5?svg=true)](https://ci.appveyor.com/project/Berendoska/homeworkjar)
+[![Build status](https://ci.appveyor.com/api/projects/status/akofpbgw69k87fd5/branch/main?svg=true)](https://ci.appveyor.com/project/Berendoska/homeworkjar/branch/main)
